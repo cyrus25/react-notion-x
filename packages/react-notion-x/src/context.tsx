@@ -1,6 +1,6 @@
 import React from 'react'
 import { ExtendedRecordMap } from 'notion-types'
-import { Text } from "../src/components/text";
+import { Text } from "./components/text";
 
 import {
   MapPageUrl,
