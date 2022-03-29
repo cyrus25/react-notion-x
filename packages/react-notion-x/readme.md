@@ -2,4 +2,23 @@
 
 ## Extended Features
 
-* Exports `Text` Component to be passed as a config.
+- Exports `text` component to be passed as a config.
+
+## Install
+
+```bash
+yarn add customized-react-notion-x
+```
+
+## Usage
+
+Once you have created your own custom `Text` component, you can pass it to the Notion Renderer components:
+
+```tsx
+<NotionRenderer
+  recordMap={page.blocks}
+  components={{
+    text: Text
+  }}
+/>
+```
