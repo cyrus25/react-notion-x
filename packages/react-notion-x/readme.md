@@ -1,4 +1,6 @@
-# Customized Fork on [react-notion-x]("https://github.com/NotionX/react-notion-x)
+# Customized Fork of react-notion-x
+
+Refer to the original documentation [here](https://github.com/NotionX/react-notion-x)
 
 ## Extended Features
 
